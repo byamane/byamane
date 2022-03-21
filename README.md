@@ -1,6 +1,6 @@
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=byamane)](https://github.com/byamane)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=byamane&theme=algolia)](https://github.com/byamane)
 
-[![Brandon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&layout=compact&theme=react)](https://github.com/byamane)
+[![Brandon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&layout=compact&theme=github_dark)](https://github.com/byamane)
 
 ## Who I Am
   ### I'm a former finance/accounting professional & FIFA eSports pro athlete --- and now, a software engineer. I'm combining my past creative & problem-solving experiences within the world of software engineering --- in the pursuit of creating something special :)
