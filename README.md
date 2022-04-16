@@ -1,7 +1,6 @@
 <div align="center">
 	<img align="center" src="https://i.imgur.com/7r8Ybhq.jpeg" width="450">
 	<h6><em>Adventures in Glendalough, Ireland</em> 🍀</h6>
-	<hr>
 	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byamane&theme=algolia" /></a>
 	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&layout=compact&theme=github_dark" /></a>
 	<hr>
