@@ -1,19 +1,23 @@
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=byamane&theme=algolia)](https://github.com/byamane)
-
-[![Brandon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&layout=compact&theme=github_dark)](https://github.com/byamane)
-
-## Who I Am
-  ### I'm a former finance/accounting professional & FIFA eSports pro athlete --- and now, a software engineer. I'm combining my past creative & problem-solving experiences within the world of software engineering --- in the pursuit of creating something special :)
-
-### Reach out:
-  [![My Linkdin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brandonyamane/) 
-  [![My Github](https://img.shields.io/badge/github-%23121011.svg?-the-badge&logo=github&logoColor=white)](https://github.com/byamane)
-  [![My Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:byamane21@gmail.com)
-
+<div align="center">
+	<img align="center" src="https://i.imgur.com/7r8Ybhq.jpeg" width="500">
+	<h6><em>Adventures in Glendalough, Ireland</em> 🍀</h6>
+	<hr>
+	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byamane&theme=algolia" /></a>
+	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&layout=compact&theme=github_dark" /></a>
+	<hr>
+	<h2>Who I Am</h2>
+	<h3>I'm a former finance/accounting professional & FIFA eSports pro athlete --- and now, a software engineer. I'm combining my past creative & problem-solving experiences within the world of software engineering --- in the pursuit of creating something special :)</h3>
+	<hr>
+  <div>
+		<h3>Reach out:</h3>
+  	<a href="https://www.linkedin.com/in/brandonyamane/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /> </a>
+		<a href="https://github.com/byamane"> <img src="https://img.shields.io/badge/github-%23121011.svg?-the-badge&logo=github&logoColor=white" /> </a>
+		<a href="mailto:byamane21@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /> </a>
+		
 ### Comfortable working with:
   [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white")](https://github.com/byamane) 
-  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=Ubuntu&logoColor=white)](https://github.com/byamane) 
-  [![Mac](https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/byamane)
+  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-0078D6?color=darkorange&style=flat-square&logo=Ubuntu&logoColor=white)](https://github.com/byamane) 
+  [![Mac](https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/byamane)
 
 <h3>Proficiencies:</h3>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
@@ -42,3 +46,4 @@
   <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /> </a>
+</div>
