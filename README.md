@@ -2,7 +2,7 @@
 	<img align="center" src="https://i.imgur.com/7r8Ybhq.jpeg" width="450">
 	<h6><em>Adventures in Glendalough, Ireland</em> 🍀</h6>
 	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byamane&theme=algolia" /></a>
-	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&hide=html,ejs&layout=compact&theme=github_dark" /></a>
+	<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byamane&hide=html,ejs, css&layout=compact&theme=github_dark" /></a>
 	<hr>
 	<h2>Who I Am</h2>
 	<h3>I'm a former finance/accounting professional & FIFA eSports pro athlete --- and now, a software engineer. I'm combining my past creative & problem-solving experiences within the world of software engineering --- in the pursuit of creating something special :)</h3>
